@@ -1,0 +1,10 @@
+<resources>
+    <!-- Lista de categorías para el filtro -->
+    <string-array name="category_list">
+        <item>Actividades</item>
+        <item>Lugares</item>
+        <item>Restaurantes</item>
+        <item>Eventos</item>
+        <item>Deportes</item>
+    </string-array>
+</resources>

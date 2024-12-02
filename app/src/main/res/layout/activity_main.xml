@@ -11,7 +11,7 @@
         android:id="@+id/logoImageView"
         android:layout_width="192dp"
         android:layout_height="183dp"
-        app:srcCompat="@drawable/turismo"
+        app:srcCompat="@drawable/turismo_image"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
